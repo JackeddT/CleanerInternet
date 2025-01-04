@@ -11,6 +11,7 @@ antipopads | [link](https://github.com/Veticia/antipopads) | [raw](https://raw.g
 CryptoFR - Scams | [link](https://github.com/CryptoFR/crypto-scams-fr) | [raw](https://raw.githubusercontent.com/CryptoFR/crypto-scams-fr/master/misc.txt) | | Crypto scam sites
 Crypto Mining Domains | [link](https://laniksj.github.io/ubo-filters/) | [raw](https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/cryptomining-domains.txt) | MIT | A list of blocked Crypto Mining Domains.
 Disconnectme - Crypto | [link](https://github.com/erkexzcx/disconnectme-pihole) |  [raw](https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Cryptomining.txt) | CC BY-NC-SA 4.0 | Crypto domains from Disconnectme services list
+Liste FR (minified) | [link](https://easylist.to/) | [raw](https://easylist-downloads.adblockplus.org/liste_fr-minified.txt) | | Easylist French
 Mitchell Krog's - Badd Boyz Hosts |[link](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [raw](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) | MIT | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers
 NoCoin Filter List | [link](https://github.com/hoshsadiq/adblock-nocoin-list/) | [raw](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) | MIT | This is an adblock list to block "browser-based crypto mining".
 hostsVN |[link](https://github.com/bigdargon/hostsVN) | [raw](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) | MIT | Hosts block ads of Vietnamese
@@ -18,6 +19,7 @@ KADhosts |[link](https://kadantiscam.netlify.app/) | [raw](https://raw.githubuse
 minecraft-hosts |[link](https://github.com/jamiemansfield/minecraft-hosts) | [raw](https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt) | CC0-1.0 | Minecraft related tracker hosts
 MVPS hosts file |[link](https://winhelp2002.mvps.org/) | [raw](https://winhelp2002.mvps.org/hosts.txt) | CC BY-NC-SA 4.0 | The purpose of this site is to provide the user with a high quality custom HOSTS file.
 neohosts - coinhave | [link](https://github.com/neoFelhz/neohosts) | [raw](https://raw.githubusercontent.com/neoFelhz/neohosts/refs/heads/data/_data/extra/coinhave.txt) | MIT | Unwanted Crypto mining
+NoTrack Malware Blocklist | [link](https://quidsup.net/notrack/blocklist.php) | [raw](https://quidsup.net/notrack/blocklist.php?download=malware) | GPL 3.0 | Malware
 rlwpx.free.fr.hrsk | [link](http://rlwpx.free.fr/WPFF/hosts.htm) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/refs/heads/master/rlwpx.free.fr.hrsk/hosts) | CC BY-NC 3.0 | Dangerous/risk content
 Dan Pollock – [someonewhocares](https://someonewhocares.org/) |[link](https://someonewhocares.org/hosts/) | [raw](https://someonewhocares.org/hosts/zero/hosts) | non-commercial with attribution | How to make the internet not suck (as much).
 SmartTV Blocklist | [link](https://github.com/Perflyst/PiHoleBlocklist) | [raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/SmartTV.txt) | MIT | Blocks ads on smart TVs
