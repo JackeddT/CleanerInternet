@@ -53,6 +53,7 @@ The Block List Project - Tracking List | [link](https://blocklist.site/) | [raw]
 The Block List Project - Ads List | [link](https://blocklist.site/) | [raw](https://blocklistproject.github.io/Lists/ads.txt) | Unlicense | Advertising
 The Block List Project - Smart TV List | [link](https://blocklist.site/) | [raw](https://blocklistproject.github.io/Lists/smart-tv.txt) | Unlicense | Smart TVs
 The Block List Project - Adobe List | [link](https://blocklist.site/) | [raw](https://blocklistproject.github.io/Lists/adobe.txt) | Unlicense | Adobe
+Turkish DNS Filter | [link](https://github.com/saurane/Turkish-Blocklist) | [raw](https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/domains.txt) | Mozilla 2.0 | Turkish
 UncheckyAds |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) | MIT | Windows installers ads sources sites based on https://unchecky.com/ content.
 URLHaus |[link](https://urlhaus.abuse.ch/) | [raw](https://urlhaus.abuse.ch/downloads/hostfile/) | CC0 | A project from [abuse.ch](https://abuse.ch/) with the goal of sharing malicious URLs.
 yoyo.org |[link](https://pgl.yoyo.org/adservers/) | [raw](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |  | Blocking with ad server and tracking server hostnames.
